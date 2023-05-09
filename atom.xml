@@ -6,7 +6,7 @@
   <link href="https://shark1470.github.io/atom.xml" rel="self"/>
   
   <link href="https://shark1470.github.io/"/>
-  <updated>2023-05-09T12:52:06.763Z</updated>
+  <updated>2023-05-09T15:04:09.743Z</updated>
   <id>https://shark1470.github.io/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第三篇博客</title>
+    <link href="https://shark1470.github.io/posts/3109e75.html"/>
+    <id>https://shark1470.github.io/posts/3109e75.html</id>
+    <published>2023-05-09T15:04:09.000Z</published>
+    <updated>2023-05-09T15:04:09.743Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第二篇博客</title>
+    <link href="https://shark1470.github.io/posts/bd55ecf0.html"/>
+    <id>https://shark1470.github.io/posts/bd55ecf0.html</id>
+    <published>2023-05-09T14:59:28.000Z</published>
+    <updated>2023-05-09T15:01:58.375Z</updated>
+    
+    <content type="html"><![CDATA[<h1>你好啊</h1><p>这个是什么啊？</p><p><code>hexo n &quot;心碎&quot;</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;你好啊&lt;/h1&gt;
+&lt;p&gt;这个是什么啊？&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hexo n &amp;quot;心碎&amp;quot;&lt;/code&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>新的博客</title>
